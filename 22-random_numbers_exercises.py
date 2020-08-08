@@ -1,6 +1,7 @@
 # Youtube URL: https://youtu.be/mBgy0oSQu94
 # ✅ Exercise 1 - Let's generate 10 values between 5 and 50. Store those values on a list.random
 
+import random
 # my_list = []
 
 # for _ in range (10):
@@ -25,7 +26,6 @@
 
 # ✅ Exercise 4 - Let's generate a list with 20 sequential numbers. You have to present it in a ramdon order (Randomized).
 
-import random
 # from random import shuffle
 
 # some_nums = [i for i in range(1, 21)]
