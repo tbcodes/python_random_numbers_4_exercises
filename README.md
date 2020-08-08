@@ -1,2 +1,4 @@
-# python_random_numbers_4_exercises
-How to generate random numbers using Python and Random Library
+# Python Random Numbers: 4 exercises to practice!
+## How to generate random numbers using Python and Random Library
+
+# Youtube URL: https://youtu.be/mBgy0oSQu94
